@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align= "center">
- <a href="www.linkedin.com/in/anshuman-1201">
+ <a href="https://www.linkedin.com/in/anshuman-1201/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkendIn Badge"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/anshumanj95/profile">
