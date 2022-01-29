@@ -35,7 +35,7 @@
   I am an intermediate Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - 🔭: I'm a student of 3rd year in computer science and engineering branch in MITS Gwalior.
   - 🌱:Exploring New Technology.
-  - ⚡:In my free time,I solve problem oon coding site.
+  - ⚡:In my free time,I gear up my skills and solve coding problems  
   - 📫:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-1201/)
   ---
   ### 🛠️: Languages and Tools:
