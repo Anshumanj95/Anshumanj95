@@ -36,7 +36,7 @@
   - 🔭: I'm a student of 3rd year in computer science and engineering branch in MITS Gwalior.
   - 🌱:Exploring New Technology.
   - ⚡:In my free time,I solve problem oon coding site.
-  - 📫:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anshuman-1201)
+  - 📫:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-1201/)
   ---
   ### 🛠️: Languages and Tools:
   <div>
